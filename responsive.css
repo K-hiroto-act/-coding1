@@ -1,0 +1,206 @@
+.head-bar {
+    display: block;
+}
+
+.r1,.r2 {
+    display: none;
+}
+
+.Top h2 {
+    font-size: 23px;
+    letter-spacing: 1px;
+}
+
+.wrapper2 {
+    width: 80%;
+}
+
+.l4 {
+    visibility:hidden;
+    width: 0;
+    height: 0;
+}
+
+.l5 {
+    visibility:hidden;
+    width: 0;
+    height: 0;
+}
+
+.l4 .article-pic {
+    width: 100%;
+    height: 80%;
+}
+
+.feature {
+    height: 2600px;
+    width: 100%;
+}
+
+
+
+.wrapper5 {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.wrapper5-1 {
+    margin: 0;
+    padding: 0;
+    height: 580px;
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.wrapper5-1 span {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    display: block;
+}
+
+#uh-1 {
+    background: url('macbook-at-the-coffee-shop.jpg');
+}
+
+#uh-2 {
+    background: url('two-coffee-at-the-shop.jpg');
+}
+
+#uh-3 {
+    background: url('imac-glasses-desk.jpg');
+}
+
+#uh-4 {
+    background: url('macbook-holding.png');
+}
+.wrapper5-1 a {
+    display: block;
+    margin: 35px auto 0 auto;
+}
+
+.mobile_responsive {
+    width: 90%;
+    height: 580px;
+    margin: 0 auto;
+    display: block;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+
+
+.design {
+    width: 90%;
+    height: 580px;
+    margin: 0 auto;
+    display: block;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.SEO {
+    width: 90%;
+    height: 580px;
+    margin: 0 auto;
+    display: block;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.Customize {
+    width: 90%;
+    height: 580px;
+    margin: 0 auto;
+    display: block;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.mobile_responsive .images,.design .images,.SEO .images,.Customize .images {
+    visibility:hidden;
+    width: 0;
+    height: 0;
+}
+
+.service {
+    height: 900px;
+    width: 100%;
+}
+
+.service .wrapper6 {
+    display: block;
+}
+
+
+.wrapper6-left {
+    height: 50%;
+    width: 100%;
+}
+
+.wrapper6-right {
+    height: 50%;
+    width: 100%;
+}
+
+.company {
+    width: 100%;
+    height: 800px;
+}
+
+.wrapper7 {
+    height: 445px;
+    width: 100%;
+    /*background-color: tomato;*/
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    box-orient: vertical;
+}
+
+.wrapper7-left {
+    width: 100%;
+    height: 195px;
+    display: block;
+    margin-top: 70px;
+}
+
+.wrapper7-left-inner {
+    height: 195px;
+    width: 95%;
+    margin: 0  auto;
+}
+
+#b {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    box-ordinal-group: 2;
+}
+
+#c {
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    box-ordinal-group: 1;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.triangle {
+    visibility: hidden;
+}
+
+.facebook1 {
+    display: none;
+}
